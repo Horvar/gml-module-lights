@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_light",
+  "name":"shd_light",
+  "parent":{
+    "name":"module-lights",
+    "path":"module-lights.yyp",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

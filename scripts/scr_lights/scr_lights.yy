@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_lights",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_lights",
+  "parent":{
+    "name":"module-lights",
+    "path":"module-lights.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
